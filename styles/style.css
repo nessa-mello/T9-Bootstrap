@@ -5,3 +5,31 @@
 a:hover{
   font-weight: bold;
 }
+
+p{
+  display: flex;
+  justify-content: center;
+  margin-top: 30px;
+}
+.imagem-carrousel {
+  object-fit: cover;
+  object-position: 0 40%;
+  height:65vh;
+}
+
+.link-sobre{
+ color:#7E459B;
+}
+
+.link-sobre:hover{
+  color: #7e459b;
+/* hover é o efeito de passar o mouse */
+}
+
+.redes-sociais i {
+  font-size: 1.8rem;
+}
+
+button:hover{
+  opacity: .9;
+}
