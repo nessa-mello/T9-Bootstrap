@@ -1,5 +1,5 @@
 .bg-roxo{
-    background-color: #7E459B;
+    background-color: black;
 }
 
 a:hover{
@@ -13,7 +13,7 @@ a:hover{
 }
 
 .link-sobre{
-  color:#7E459B;
+  color:black;
  }
 
  .link-sobre:hover{
@@ -22,7 +22,7 @@ a:hover{
 }
 
 .redes-sociais i {
-  font-size: 1.3rem;
+  font-size: 1.6rem;
 }
 
 .font-roxo{
@@ -39,10 +39,8 @@ p{
   margin-top: 30px;
 }
 
-.imagem-card{
-  height: 300px;
-
-}
+/* .card-img-top {
+  height: 200px;
 
 
 
@@ -51,3 +49,5 @@ p{
 
 
 
+
+ */
